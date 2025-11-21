@@ -28,3 +28,6 @@ Each day introduces:
 - More ingredients
 - Character unlocks
 - Dialogue audio or stylized voice fonts
+
+## Links
+Video: https://streamable.com/psfo6r
